@@ -32,8 +32,6 @@ This mobile web application allows users to get information about
 demographic data for all continents. Its filter functionality allows to select countries by continent and get important information about population number, languages spoken, area, and capital of each country.
 It is a very useful information for educative, travel, and investment purposes. We used an API named restcountries.
 
-[Here](https://www.loom.com/share/a4d1e4a128484e639834365a979e19ed) is the link to my video presentation.
-<br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -77,7 +75,7 @@ Each country has its own flag and population number.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see a Demo [here](https://metrics-webapp-project-microverse.onrender.com/).
+[Live](https://metrics-webapp-eta.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +86,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 bash
-  git clone https://github.com/IvonneBenitesRodriguez/metrics-webapp-project.git
+  git clone https://github.com/gilberthappi/metrics-webapp.git
 
 <br>
 
@@ -97,7 +95,7 @@ bash
 Install this project's dependencies with:
 
 
-cd .\metrics-webapp-project.git <br/>
+cd .\metrics-webapp.git <br/>
 npm install
 
 
@@ -131,13 +129,17 @@ bash
 
 <!-- AUTHORS -->
 
-### 👥 Author <a name="authors"></a>
+## Author
 
-👤 *Ivonne Benites*
+ **Gilbert**
 
-- GitHub: [Ivonne Benites](https://github.com/IvonneBenitesRodriguez)
-- X: [Ivonne Benites](https://twitter.com/IvonneBenitesR)
-- LinkedIn: [Ivonne Benites](https://www.linkedin.com/in/ivonnebenites/)
+- GitHub: [@githubhandle](https://github.com/gilberthappi)
+- Twitter: [@twitterhandle](https://twitter.com/dushimimanagil3)
+- Linkedin: [@linkedin](https://www.linkedin.com/in/dushimimana-gilbert-happi-997b2a262/)
+
+![happi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilberthappi&count_private=true&theme=dark&show_icons=true)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +165,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project gift us with a star, follow on [GitHub](https://github.com/IvonneBenitesRodriguez/) and a nice comment!
+If you like this project gift us with a star, follow on [GitHub](https://github.com/gilberthappi/) and a nice comment!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
